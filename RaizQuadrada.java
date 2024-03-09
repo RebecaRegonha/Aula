@@ -7,6 +7,6 @@ public class RaizQuadrada {
         double numero = sc.nextDouble();
         System.out.println(Math.sqrt(numero));
         sc.close();
-
+//oi
     }
 }
